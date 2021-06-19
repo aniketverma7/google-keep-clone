@@ -63,10 +63,8 @@ form button{
 }
 
 
-@media (max-width:350px) {
+@media (max-width:450px) {
     form{
-        width: 250px;
-        margin-left: 15px;
-        
+        width:60%;     
     }
 }
