@@ -1,0 +1,10 @@
+.notes-div{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: flex-start; 
+    
+    margin: 0px auto;
+}
